@@ -5,6 +5,7 @@ Create-React-App broke, reproduce by:
 
 ```bash
 cd err-demo/
+mkdir packages
 cd packages/
 
 create-react-app test
